@@ -912,6 +912,10 @@ span{
         background:var(--bg-color);
         opacity: 0.6;
     }
+
+    .education-row{
+        font-size:20%;
+    }
 }
 
 @media( max-width:520px){
